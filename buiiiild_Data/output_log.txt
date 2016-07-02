@@ -1,0 +1,44 @@
+Initialize engine version: 4.6.0f3 (30840d631a27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 860M    (ID=0x1392)
+    Vendor:   NVIDIA
+    VRAM:     1976 MB
+Default GameObject Tag: Player already registered
+ 
+(Filename:  Line: 66)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Whitney\Desktop\Projet PJS4\buiiiild_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Whitney\Desktop\Projet PJS4\buiiiild_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Whitney\Desktop\Projet PJS4\buiiiild_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Whitney\Desktop\Projet PJS4\buiiiild_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Whitney\Desktop\Projet PJS4\buiiiild_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Whitney\Desktop\Projet PJS4\buiiiild_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.037 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Whitney\Desktop\Projet PJS4\buiiiild_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Whitney\Desktop\Projet PJS4\buiiiild_Data\Managed\System.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+Level '' (1) couldn't be loaded because it has not been added to the build settings.
+To add a level to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 271)
+
+Ya encore des enemy
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Map.CheckDoors () [0x00000] in <filename unknown>:0 
+  at Map.EnemyDie () [0x00000] in <filename unknown>:0 
+  at Health.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+

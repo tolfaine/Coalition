@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: 70b1412ba2b1fb34c9b3e4391bfb44db
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Armure femme 1 sans casque_0
+    21300002: Armure femme 1 sans casque_1
+    21300004: Armure femme 1 sans casque_2
+    21300006: Armure femme 1 sans casque_3
+    21300008: Armure femme 1 sans casque_4
+    21300010: Armure femme 1 sans casque_5
+    21300012: Armure femme 1 sans casque_6
+    21300014: Armure femme 1 sans casque_7
+    21300016: Armure femme 1 sans casque_8
+    21300018: Armure femme 1 sans casque_9
+    21300020: Armure femme 1 sans casque_10
+    21300022: Armure femme 1 sans casque_11
+    21300024: Armure femme 1 sans casque_12
+    21300026: Armure femme 1 sans casque_13
+    21300028: Armure femme 1 sans casque_14
+    21300030: Armure femme 1 sans casque_15
+    21300032: Armure femme 1 sans casque_16
+    21300034: Armure femme 1 sans casque_17
+    21300036: Armure femme 1 sans casque_18
+    21300038: Armure femme 1 sans casque_19
+    21300040: Armure femme 1 sans casque_20
+    21300042: Armure femme 1 sans casque_21
+    21300044: Armure femme 1 sans casque_22
+    21300046: Armure femme 1 sans casque_23
+    21300048: Armure femme 1 sans casque_24
+    21300050: Armure femme 1 sans casque_25
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Armure femme 1 sans casque_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 152
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Armure femme 1 sans casque_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 152
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Armure femme 1 sans casque_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 152
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Armure femme 1 sans casque_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 152
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Armure femme 1 sans casque_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 165
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Armure femme 1 sans casque_5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 146
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Armure femme 1 sans casque_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Armure femme 1 sans casque_7
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 108
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Armure femme 1 sans casque_8
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 101
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Armure femme 1 sans casque_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 103
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Armure femme 1 sans casque_10
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 102
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Armure femme 1 sans casque_11
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 59
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Armure femme 1 sans casque_12
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 48
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Armure femme 1 sans casque_13
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 49
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Armure femme 1 sans casque_14
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 48
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Armure femme 1 sans casque_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Armure femme 1 sans casque_16
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 48
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Armure femme 1 sans casque_17
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 57
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Armure femme 1 sans casque_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Armure femme 1 sans casque_19
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 5
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Armure femme 1 sans casque_20
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 4
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Armure femme 1 sans casque_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 12
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Armure femme 1 sans casque_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 4
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Armure femme 1 sans casque_23
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 4
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Armure femme 1 sans casque_24
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 4
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Armure femme 1 sans casque_25
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 4
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

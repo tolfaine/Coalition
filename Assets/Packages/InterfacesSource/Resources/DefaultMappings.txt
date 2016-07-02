@@ -1,0 +1,18 @@
+{  
+   "interfaceMap":{  
+   },
+   "interfaceToMultipleMaps":{  
+      "IAnalytics":[  
+         "NullAnalytics",
+         "NullAnalytics",
+         "NullAnalytics"
+      ]
+   },
+   "namedStringTypes":{  
+      "ANALYTICS_INITIALIZATION":"{\"PRIMARY\":[\"\"],\"SECONDARY\":[\"\"],\"TERTIARY\":[\"\"]}",
+	  "PLATFORM":"Android"
+   },
+   "namedIntTypes":{  
+
+   }
+}
